@@ -1,2 +1,10 @@
 # WebApi
-WebApi Usando DDD, EF, AutoMapper, Swagger, Unit Test, Fluent Validation
+Tecnologias Usadas
+
+ - DDD
+ - Entity Frameorke CORE
+ - AutoMapper
+ - Swagger
+ - Unit Test (Xunit)
+ - Fluent Validation
+
